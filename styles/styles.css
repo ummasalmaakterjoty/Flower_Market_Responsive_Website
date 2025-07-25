@@ -19,3 +19,12 @@
   font-variation-settings:
     "wdth" 100;
 }
+
+.img{
+    position: relative;
+}
+.input{
+    position: absolute;
+    left: 50%;
+    right: 50%;
+}
